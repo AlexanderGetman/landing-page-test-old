@@ -14,7 +14,7 @@ html, body {
   position: relative;
   display: block;
   background-color: #f3b452;
-  background-image: url('https://image.ibb.co/kqm65d/noise.png');
+  background-image: url('images/noise.png');
   padding: 35px 35px 15px 35px;
 }
 
@@ -47,7 +47,7 @@ html, body {
 
 .social-media-icons::before {
   content: " ";
-  background: url('https://image.ibb.co/bTznVd/separator.png') no-repeat;
+  background: url('images/separator.png') no-repeat;
   display: inline-block;
   float: left;
   width: 2px;
@@ -61,25 +61,25 @@ html, body {
 }
 
 .icon-digg {
-  background: url('https://image.ibb.co/iH9J3y/socmedicons.png') 0 0;
+  background: url('images/socmedicons.png') 0 0;
   height: 32px;
   width: 32px;
 }
 
 .icon-mail {
-  background: url('https://image.ibb.co/iH9J3y/socmedicons.png') -37px 0;
+  background: url('images/socmedicons.png') -37px 0;
   height: 32px;
   width: 32px;
 }
 
 .icon-flickr {
-  background: url('https://image.ibb.co/iH9J3y/socmedicons.png') -77px 0;
+  background: url('images/socmedicons.png') -77px 0;
   height: 32px;
   width: 32px;
 }
 
 .icon-call {
-  background: url('https://image.ibb.co/iH9J3y/socmedicons.png') -116px 0;
+  background: url('images/socmedicons.png') -116px 0;
   height: 32px;
   width: 32px;
 }
@@ -154,7 +154,7 @@ html, body {
   bottom: 5px;
   width: 18px;
   height: 16px;
-  background: url('https://image.ibb.co/mzFa0d/mg_glass.png') no-repeat;
+  background: url('images/mg_glass.png') no-repeat;
   background-position: right;
   border: 0;
   border-radius: 0px;
@@ -168,7 +168,7 @@ html, body {
   max-width: 1020px;
   margin: auto;
   padding: 50px 0;
-  background-image: url('https://image.ibb.co/iVWq1J/bg.png');
+  background-image: url('images/bg.png');
 }
 
 .greeting:after {
@@ -176,7 +176,7 @@ html, body {
  display: block;
  width: 100%;
  height: 4px;
- background-image: url('https://image.ibb.co/i1E2Vo/separator_opx.png');
+ background-image: url('images/separator_opx.png');
  background-repeat: repeat-x;
  position: absolute;
  bottom: -4px;
@@ -188,7 +188,7 @@ html, body {
   margin: auto;
   max-width: 950px;
   background-color: rgb(64,49,42);
-  background-image: url('https://image.ibb.co/g5uJMJ/noise_greeting.png');
+  background-image: url('images/noise_greeting.png');
   border-radius: 5px;
   z-index: 2;
 }
@@ -231,7 +231,7 @@ html, body {
   display: inline-block;
   text-align: center;
   background-color: #fbbc5a;
-  background-image: url('https://image.ibb.co/gux2Fd/noise_btn.png');
+  background-image: url('images/noise_btn.png');
   border: none;
   font-size: 16px;
   font-family: "Lato", sans-serif;
@@ -260,7 +260,7 @@ html, body {
   margin: auto;
   max-width: 950px;
   top: -6px;
-  background-image: url('https://image.ibb.co/mB2i5d/base.png');
+  background-image: url('images/base.png');
   z-index: 1;
   padding-top: 20px;
   padding-left: 40px;
@@ -311,7 +311,7 @@ html, body {
 .greeting-block:before {
   position: absolute;
   content: '';
-  background-image: url('https://image.ibb.co/g1RwrJ/main_gr_image.png');
+  background-image: url('images/main_gr_image.png');
   background-position: -270px -232px;
   height: 252px;
   width: 230px;
@@ -324,7 +324,7 @@ html, body {
 .greeting-block:after {
   position: absolute;
   content: '';
-  background-image: url('https://image.ibb.co/jg7VJy/secondary_gr_image.png');
+  background-image: url('images/secondary_gr_image.png');
   background-position: -340px -410px;
   height: 220px;
   width: 230px;
@@ -436,7 +436,7 @@ html, body {
 .the-blog-btn {
   text-align: center;
   background-color: #4e3f38;
-  background-image: url('https://image.ibb.co/n42QLd/noise_blog.png');
+  background-image: url('images/noise_blog.png');
   border: none;
   font-size: 14px;
   font-family: "Merriweather", serif;
@@ -713,7 +713,7 @@ input.tab3:checked ~ .content3 {
   display: inline-block;
   text-align: center;
   background-color: #fbbc5a;
-  background-image: url('https://image.ibb.co/b2Vt8y/bottom_btn_noise.png');
+  background-image: url('images/bottom_btn_noise.png');
   border: none;
   box-shadow: none;
   font-size: 16px;
@@ -760,7 +760,7 @@ input.email {
   display: inline-block;
   text-align: center;
   background-color: #fbbc5a;
-  background-image: url('https://image.ibb.co/b2Vt8y/bottom_btn_noise.png');
+  background-image: url('images/bottom_btn_noise.png');
   border: none;
   font-size: 16px;
   font-family: "Merriweather", serif;
@@ -848,7 +848,7 @@ input.email {
   display: block;
   min-height: 65px;
   max-width: 100%;
-  background-image: url('https://image.ibb.co/cSqorJ/footer_background.png');
+  background-image: url('images/footer_background.png');
   padding: 25px 30px;
 }
 
